@@ -1,0 +1,6 @@
+E:\000_工作\Sort Characters By Frequency\Sort Characters By Frequency\bin\Debug\Sort Characters By Frequency.exe.config
+E:\000_工作\Sort Characters By Frequency\Sort Characters By Frequency\bin\Debug\Sort Characters By Frequency.exe
+E:\000_工作\Sort Characters By Frequency\Sort Characters By Frequency\bin\Debug\Sort Characters By Frequency.pdb
+E:\000_工作\Sort Characters By Frequency\Sort Characters By Frequency\obj\Debug\Sort Characters By Frequency.csprojResolveAssemblyReference.cache
+E:\000_工作\Sort Characters By Frequency\Sort Characters By Frequency\obj\Debug\Sort Characters By Frequency.exe
+E:\000_工作\Sort Characters By Frequency\Sort Characters By Frequency\obj\Debug\Sort Characters By Frequency.pdb
